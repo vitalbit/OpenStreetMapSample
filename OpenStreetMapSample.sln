@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMapSample", "OpenStreetMapSample\OpenStreetMapSample.csproj", "{1E417CA0-FDF3-470B-9209-64A6F35E1A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSampleCommon", "MapSampleCommon\MapSampleCommon.csproj", "{2B19CB4E-FBDB-44C4-9A40-F1C35BB716BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E417CA0-FDF3-470B-9209-64A6F35E1A65}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2B19CB4E-FBDB-44C4-9A40-F1C35BB716BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B19CB4E-FBDB-44C4-9A40-F1C35BB716BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B19CB4E-FBDB-44C4-9A40-F1C35BB716BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B19CB4E-FBDB-44C4-9A40-F1C35BB716BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07015D2F-DC1D-4F89-B22D-7E5FA88BBE8F}
+	EndGlobalSection
+EndGlobal
